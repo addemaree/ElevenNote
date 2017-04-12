@@ -11,3 +11,4 @@
 \\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 \\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 \\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojResolveAssemblyReference.cache
