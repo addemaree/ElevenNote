@@ -12,3 +12,9 @@
 \\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 \\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 \\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
