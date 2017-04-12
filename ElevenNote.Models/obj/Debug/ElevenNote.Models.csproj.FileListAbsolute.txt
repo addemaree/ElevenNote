@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.config
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
