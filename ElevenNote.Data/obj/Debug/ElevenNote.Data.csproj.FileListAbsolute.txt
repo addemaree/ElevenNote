@@ -12,3 +12,6 @@
 \\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 \\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
 \\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.AddIsStarred.resources

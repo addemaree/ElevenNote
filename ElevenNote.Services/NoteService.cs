@@ -40,7 +40,7 @@ namespace ElevenNote.Services
         {
             using (var ctx = new ApplicationDbContext())
             {
-                var query = ctx.Notes.Where(e => e.OwnerId == _userId).Select(e => new NoteListItem { NoteId = e.NoteId, Title = e.Title, CreatedUtc = e.CreatedUtc });
+                var query = ctx.Notes.Where(e => e.OwnerId == _userId).Select(e => new NoteListItem { NoteId = e.NoteId, Title = e.Title, IsStarred = e.IsStarred, CreatedUtc = e.CreatedUtc });
                 return query.ToArray();
             }
             
