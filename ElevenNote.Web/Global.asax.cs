@@ -14,6 +14,9 @@ namespace ElevenNote.Web
         {
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
+            //NOTE: API *ALWAYS* goes before MVC
+            WebAPIConfig.Register();
+            //MVC Routes *NOTE: MUST GO AFTER API**
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
