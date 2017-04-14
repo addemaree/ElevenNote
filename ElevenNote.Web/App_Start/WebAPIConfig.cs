@@ -11,6 +11,7 @@ namespace ElevenNote.Web
     {
         public static void Register()
         {
+            //BoilerPlate Code: Can be re-used!
             GlobalConfiguration 
             .Configure(
                     x =>
