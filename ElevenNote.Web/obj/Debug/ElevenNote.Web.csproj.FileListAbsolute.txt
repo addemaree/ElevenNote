@@ -103,3 +103,9 @@
 \\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Web\bin\Microsoft.AI.Web.xml
 \\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Web\obj\Debug\ElevenNote.Web.dll
 \\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Web\obj\Debug\ElevenNote.Web.pdb
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Web\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Web\bin\System.Web.Http.dll
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Web\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Web\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Web\bin\System.Web.Http.xml
+\\Mac\Home\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Web\bin\System.Web.Http.WebHost.xml
