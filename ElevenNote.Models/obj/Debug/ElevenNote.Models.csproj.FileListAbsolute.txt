@@ -26,3 +26,11 @@ C:\Users\addemaree\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Deb
 C:\Users\addemaree\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojResolveAssemblyReference.cache
 C:\Users\addemaree\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 C:\Users\addemaree\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\Users\addemaree\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\addemaree\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
+C:\Users\addemaree\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\addemaree\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
+C:\Users\addemaree\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\addemaree\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
+C:\Users\addemaree\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll.mdb
+C:\Users\addemaree\Desktop\GitHub\dotnet201\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll.mdb
